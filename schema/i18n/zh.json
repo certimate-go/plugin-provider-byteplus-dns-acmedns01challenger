@@ -1,0 +1,4 @@
+{
+  "plugin.byteplus-dns.name": "BytePlus - DNS Suite",
+  "plugin.byteplus-dns.description": "通过 BytePlus - DNS Suite 完成 ACME DNS-01 验证。"
+}

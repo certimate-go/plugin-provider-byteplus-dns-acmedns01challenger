@@ -1,0 +1,18 @@
+{
+  "access_provider_type": "byteplus",
+  "binary": "byteplus-dns.exe",
+  "capability": "dns",
+  "description": "ACME DNS-01 via BytePlus - DNS Suite.",
+  "display_name_key": "plugin.byteplus-dns.name",
+  "icon": "icon.svg",
+  "min_core_version": "",
+  "protocol_version": 4,
+  "provider_type": "byteplus-dns",
+  "provider_aliases": [
+    "byteplus"
+  ],
+  "usages": [
+    "dns"
+  ],
+  "version": "0.1.0"
+}
